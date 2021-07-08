@@ -1,10 +1,12 @@
 .header {
     width: 101%;
-    height: 150px;
+    height: 155px;
     background-color: rgb(129, 129, 129);
     position: relative;
-    left:-0.5%;
-    top:-5%;
+    left: -0.5%;
+    border: none;
+    top: -5px;
+    margin-top: 0%;
 }
 
 .button {
