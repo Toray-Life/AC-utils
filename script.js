@@ -1,12 +1,5 @@
-function sayHi() {
-    alert("Hello");
-  }
-  
+ 
 document.body.style.backgroundColor = "#00fdd0";
-alert(location.href); // показывает текущий URL
-if (confirm("Перейти на Wikipedia?")) {
-  location.href = "https://wikipedia.org"; // перенаправляет браузер на другой URL
-}
 
 document.body.onload = addElement;
 
