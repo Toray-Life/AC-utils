@@ -15,7 +15,6 @@ for (var i = 0; i < dropDownButtons.length; i++) {
 
 function dropdownClick(button) {
     var dropdownContent = button.nextElementSibling;
-
     if (dropdownContent.style.display === "block") {
         dropdownContent.style.display = "none";
     }
